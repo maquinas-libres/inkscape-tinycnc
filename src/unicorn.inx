@@ -32,8 +32,8 @@ Some examples:
 - X = 50, Y = 50 if it starts in the front-left corner of a Cupcake CNC.
 
 Note: Double-check the orientation of your axes when changing these values!</_param>
-      <param name="x-home" type="float" min="-100.00" max="100.00" _gui-text="Pen starts at X value:">0.00</param>
-      <param name="y-home" type="float" min="-100.00" max="100.00" _gui-text="Pen starts at Y value:">0.00</param>
+      <param name="x-home" type="float" min="-100.00" max="100.00" _gui-text="Pen starts at X value:">50.00</param>
+      <param name="y-home" type="float" min="-100.00" max="100.00" _gui-text="Pen starts at Y value:">50.00</param>
     </page>
     <page name="copies" _gui-text="Copies">
       <_param name="copies_help" type="description" xml:space="preserve">Add page-changing prompts so you can plot multiple copies!</_param>
