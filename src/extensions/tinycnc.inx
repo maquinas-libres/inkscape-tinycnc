@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
-  <_name>MakerBot Unicorn G-Code Output</_name>
-  <id>com.makerbot.unicorn.gcode</id>
+  <_name>G-Code para TinyCNC</_name>
+  <id>com.maquinaslibres.tinycnc.gcode</id>
   <dependency type="extension">org.inkscape.output.svg.inkscape</dependency>
-  <dependency type="executable" location="extensions">unicorn.py</dependency>
+  <dependency type="executable" location="extensions">tinycnc.py</dependency>
   <dependency type="executable" location="extensions">inkex.py</dependency>
+<!--
   <param name="tab" type="notebook">
     <page name="plotter_setup" _gui-text="Setup">
       <param name="pen-up-angle" type="float" min="0.0" max="180.0" _gui-text="Pen Up Angle">0</param>
@@ -52,15 +53,15 @@ Note: Double-check the orientation of your axes when changing these values!</_pa
 More Info: http://github.com/martymcguire/inkscape-unicorn/</_param>
     </page>
   </param>
-
+-->
   <output>
     <extension>.gcode</extension>
     <mimetype>application/x-gcode</mimetype>
-    <_filetypename>MakerBot Unicorn G-Code (*.gcode)</_filetypename>
-    <_filetypetooltip>Toolpath for the MakerBot Unicorn Pen Plotter</_filetypetooltip>
+    <_filetypename>G-Code para TinyCNC (*.gcode)</_filetypename>
+    <_filetypetooltip>Trazos para una TinyCNC</_filetypetooltip>
     <dataloss>true</dataloss>
   </output>
   <script>
-    <command reldir="extensions" interpreter="python">unicorn.py</command>
+    <command reldir="extensions" interpreter="python">tinycnc.py</command>
   </script>
 </inkscape-extension>

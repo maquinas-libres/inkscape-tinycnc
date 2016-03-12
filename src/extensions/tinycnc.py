@@ -20,19 +20,19 @@ import sys,os
 import inkex
 from math import *
 import getopt
-from unicorn.context import GCodeContext
-from unicorn.svg_parser import SvgParser
+from tinycnc.context import GCodeContext
+from tinycnc.svg_parser import SvgParser
 
 class MyEffect(inkex.Effect):
   def __init__(self):
     inkex.Effect.__init__(self)
     self.OptionParser.add_option("--pen-up-angle",
                       action="store", type="float",
-                      dest="pen_up_angle", default="50.0",
+                      dest="pen_up_angle", default="0.0",
                       help="Pen Up Angle")
     self.OptionParser.add_option("--pen-down-angle",
                       action="store", type="float",
-                      dest="pen_down_angle", default="30.0",
+                      dest="pen_down_angle", default="20.0",
                       help="Pen Down Angle")
     self.OptionParser.add_option("--start-delay",
                       action="store", type="float",
