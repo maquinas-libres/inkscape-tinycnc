@@ -64,11 +64,11 @@ class MyEffect(inkex.Effect):
                       help="Add pen registration check(s)")
     self.OptionParser.add_option("--x-home",
                       action="store", type="float",
-                      dest="x_home", default="0.0",
+                      dest="x_home", default="45.0",
                       help="Starting X position")
     self.OptionParser.add_option("--y-home",
                       action="store", type="float",
-                      dest="y_home", default="0.0",
+                      dest="y_home", default="40.0",
                       help="Starting Y position")
     self.OptionParser.add_option("--num-copies",
                       action="store", type="int",

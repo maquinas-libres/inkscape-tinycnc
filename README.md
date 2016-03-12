@@ -38,4 +38,4 @@ Creditos
 Quehaceres
 ==========
 
-* Correr el centro al punto inferior izquierdo.
+* Más ejemplos

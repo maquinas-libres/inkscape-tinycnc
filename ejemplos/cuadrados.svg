@@ -9,14 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="TinyCNC.svg"
+   sodipodi:docname="cuadrados.svg"
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg3097"
    height="248.03149"
-   width="283.46457">
-  <title
-     id="title2992">TinyCNC</title>
+   width="269.29132">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,10 +22,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80378487"
-     inkscape:cx="270.8522"
-     inkscape:cy="154.39884"
-     inkscape:document-units="mm"
+     inkscape:zoom="1.2056773"
+     inkscape:cx="49.764555"
+     inkscape:cy="110.72614"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1024"
@@ -40,9 +38,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showguides="false"
-     units="mm"
-     borderlayer="true"
-     inkscape:showpageshadow="false" />
+     units="mm" />
   <defs
      id="defs3099">
     <symbol
@@ -72,33 +68,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>TinyCNC</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:title />
       </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/3.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-6.4228571,-58.118374)"
+     transform="translate(-6.4228571,-58.118368)"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1" />
+     inkscape:label="Layer 1">
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3243"
+       width="211.95299"
+       height="211.95299"
+       x="35.092022"
+       y="76.157623"
+       rx="2.760278" />
+    <rect
+       rx="1.3801391"
+       y="129.14587"
+       x="88.080269"
+       height="105.97649"
+       width="105.9765"
+       id="rect3296"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
   <g
      inkscape:label="Capa"
      id="layer2"
      inkscape:groupmode="layer"
-     transform="translate(0,-30.853495)" />
+     transform="translate(0,-30.853488)" />
 </svg>
