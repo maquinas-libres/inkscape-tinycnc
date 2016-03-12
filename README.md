@@ -8,9 +8,9 @@ Instalar
 
 Copiar la extensión y templates en inkscape:
 
-* OS X - `/Applications/Inkscape.app/Contents/Resources/extensions`
-* Linux - `/usr/share/inkscape/extensions`
-* Windows - `C:\Program Files\Inkscape\share\extensions`
+* OS X - `/Applications/Inkscape.app/Contents/Resources/`
+* GNU/Linux - `/usr/share/inkscape/extensions` o `~/.config/inkscape/`
+* Windows - `C:\Program Files\Inkscape\share\`
 
 Uso
 ===
@@ -24,6 +24,8 @@ Uso
 ![img](img/exportar.png)
 > Grabalo como "G-Code para TinyCNC"
 
+Una vez obtenido el G-Code vamos a tener que usar un programa para comunicarnos con la impresora por ahora el más recomendable es [cncgcodecontroller](...)
+
 Creditos
 ========
 
@@ -32,10 +34,8 @@ Creditos
 * [Scribbles](https://github.com/makerbot/Makerbot/tree/master/Unicorn/Scribbles%20Scripts) is the original DXF-to-Unicorn Python script.
 * [The Egg-Bot Driver for Inkscape](http://code.google.com/p/eggbotcode/) provided inspiration and good examples for working with Inkscape's extensions API.
 
-TODOs
-=====
 
-* Rename `*PolyLine` stuff to `*Path` to be less misleading.
-* Formalize "home" to be a reasonable place to change pages/pens.
-* Parameterize smoothness for curve approximation.
-* Use native curve G-Codes instead of converting to paths?
+Quehaceres
+==========
+
+* Correr el centro al punto inferior izquierdo.
