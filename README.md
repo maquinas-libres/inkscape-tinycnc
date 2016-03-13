@@ -12,6 +12,16 @@ Instalar
 * OS X - `/Applications/Inkscape.app/Contents/Resources/`
 * Windows - `C:\Program Files\Inkscape\share\`
 
+
+GNU/Linux
+---------
+
+~~~
+wget https://raw.githubusercontent.com/maquinas-libres/inkscape-tinycnc/master/instalar.sh | bash
+~~~
+
+Iniciar inkscape y ahora inicia con la opción para salvar como "G-Code para TinyCNC"
+
 Uso
 ===
 
