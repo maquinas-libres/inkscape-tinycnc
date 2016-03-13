@@ -6,10 +6,10 @@ Extensión de inkscape para exportar codigo G-Code para TinyCNC
 Instalar
 ========
 
-Copiar la extensión y templates en inkscape:
+[Descargar la extensión](https://github.com/maquinas-libres/inkscape-tinycnc/archive/master.zip) expandir y copiar la extensión y templates en inkscape:
 
-* OS X - `/Applications/Inkscape.app/Contents/Resources/`
 * GNU/Linux - `/usr/share/inkscape/extensions` o `~/.config/inkscape/`
+* OS X - `/Applications/Inkscape.app/Contents/Resources/`
 * Windows - `C:\Program Files\Inkscape\share\`
 
 Uso
@@ -39,3 +39,4 @@ Quehaceres
 ==========
 
 * Más ejemplos
+* Conversor de pixels a vectores (eggbot)
