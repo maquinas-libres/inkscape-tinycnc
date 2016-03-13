@@ -16,7 +16,7 @@ Uso
 ===
 
 ![img](img/template.png)
-> Al abrir el inkscape elegí como template "TinyCNC" esto va a mostrarnos el area dibujable
+> Al abrir el inkscape elegí **Nuevo** → **TinyCNC** esto va a mostrarnos el area dibujable por el tinycnc
 
 ![img](img/dibujar.png)
 > Dibuja lo que quieras :D
