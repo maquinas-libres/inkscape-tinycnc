@@ -14,7 +14,7 @@
    version="1.1"
    id="svg3097"
    height="248.03149"
-   width="269.29132">
+   width="283.46457">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2056773"
-     inkscape:cx="49.764555"
+     inkscape:cx="122.68591"
      inkscape:cy="110.72614"
-     inkscape:document-units="px"
+     inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1024"
@@ -73,30 +73,30 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-6.4228571,-58.118368)"
+     transform="translate(-6.4228571,-58.118372)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.998335;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3243"
-       width="211.95299"
-       height="211.95299"
-       x="35.092022"
-       y="76.157623"
-       rx="2.760278" />
+       width="211.6001"
+       height="211.6001"
+       x="42.355091"
+       y="76.334068"
+       rx="2.755682" />
     <rect
-       rx="1.3801391"
-       y="129.14587"
-       x="88.080269"
-       height="105.97649"
-       width="105.9765"
+       rx="1.3714011"
+       y="129.48135"
+       x="95.502365"
+       height="105.30554"
+       width="105.30555"
        id="rect3296"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99366879;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      inkscape:label="Capa"
      id="layer2"
      inkscape:groupmode="layer"
-     transform="translate(0,-30.853488)" />
+     transform="translate(0,-30.853492)" />
 </svg>

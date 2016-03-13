@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="TinyCNC.svg"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg3097"
+   height="248.03149"
+   width="283.46457">
+  <title
+     id="title2992">TinyCNC</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80378487"
+     inkscape:cx="270.8522"
+     inkscape:cy="154.39884"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="549"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false"
+     units="mm"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
+  <defs
+     id="defs3099">
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Model_Space" />
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         inkscape:connector-curvature="0"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path3184" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata3102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>TinyCNC</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-6.4228571,-58.118374)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2997"
+       sodipodi:cx="80.867409"
+       sodipodi:cy="51.461483"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.7791286"
+       sodipodi:radius="132.84085"
+       sodipodi:argument="-22.966188"
+       sodipodi:t0="0"
+       d="m 80.867409,51.461483 c -2.966875,4.376405 -7.363058,-1.840124 -7.273873,-4.931141 0.241686,-8.376464 10.284415,-11.643261 17.136154,-9.616604 12.25615,3.625214 16.43604,18.345846 11.95934,29.341167 C 96.11928,82.390982 76.182046,87.599055 61.142846,80.556972 41.097957,71.170984 34.843053,45.854732 44.498047,26.805779 56.647872,2.8346157 87.411504,-4.4739207 110.45425,7.8182492 138.36211,22.705714 146.72785,58.951849 131.78451,85.979468 114.17431,117.83058 72.425218,127.25573 41.418283,109.65246 5.6195486,89.328786 -4.8665075,42.063759 15.402558,7.0812161 38.433558,-32.668172 91.223272,-44.216194 130.17882,-21.27724 173.88105,4.4567999 186.49182,62.777391 160.88,105.70403 132.44603,153.36074 68.590021,167.03487 21.69372,138.74795 -29.918706,107.61636 -44.656654,38.221507 -13.692931,-12.643347 20.134488,-68.212463 95.070847,-84.014605 149.90338,-50.372729 c 59.52658,36.521854 76.39322,117.001816 40.07211,175.801319 -4.24655,6.87467 -9.1268,13.3564 -14.55549,19.34152"
+       transform="translate(59.919759,141.47401)" />
+  </g>
+  <g
+     inkscape:label="Capa"
+     id="layer2"
+     inkscape:groupmode="layer"
+     transform="translate(0,-30.853495)" />
+</svg>
