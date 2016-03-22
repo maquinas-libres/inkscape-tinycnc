@@ -65,7 +65,7 @@ Creditos
 * [Inkscape](http://www.inkscape.org/) is an awesome open source vector graphics app.
 * [Scribbles](https://github.com/makerbot/Makerbot/tree/master/Unicorn/Scribbles%20Scripts) is the original DXF-to-Unicorn Python script.
 * [The Egg-Bot Driver for Inkscape](http://code.google.com/p/eggbotcode/) provided inspiration and good examples for working with Inkscape's extensions API.
-* [Hershey](http://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/)
+* [Hershey Text](http://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/) para las fuentes lineales
 
 Quehaceres
 ==========
