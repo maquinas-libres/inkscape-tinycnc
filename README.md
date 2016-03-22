@@ -3,6 +3,10 @@ G-Code de TinyCNC para Inkscape
 
 Extensión de inkscape para exportar codigo G-Code para TinyCNC
 
+![TinyCNC](img/tinycnc.jpg)
+
+[Comprar una](https://maquinaslibres.noblogs.org/tinycnc/)
+
 Instalar
 ========
 
