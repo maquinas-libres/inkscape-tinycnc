@@ -1,11 +1,9 @@
-(Scribbled version of /tmp/ink_ext_XXXXXX.svgGAVNEY @ 3500.00)
-( tinycnc.py /tmp/ink_ext_XXXXXX.svgGAVNEY )
+(Scribbled version of /tmp/ink_ext_XXXXXX.svgZHOQEY @ 3500.00)
+( tinycnc.py /tmp/ink_ext_XXXXXX.svgZHOQEY )
 G21 (metric ftw)
 G90 (absolute mode)
 G92 X45.00 Y40.00 Z0.00 (you are here)
 
-Z20 (pen down)
-G4 P150 (wait 150ms)
 Z0 (pen up)
 G4 P150 (wait 150ms)
 M18 (disengage drives)

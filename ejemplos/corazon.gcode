@@ -1,5 +1,5 @@
-(Scribbled version of /tmp/ink_ext_XXXXXX.svgDG8GEY @ 3500.00)
-( tinycnc.py /tmp/ink_ext_XXXXXX.svgDG8GEY )
+(Scribbled version of /tmp/ink_ext_XXXXXX.svgNR1TEY @ 3500.00)
+( tinycnc.py /tmp/ink_ext_XXXXXX.svgNR1TEY )
 G21 (metric ftw)
 G90 (absolute mode)
 G92 X45.00 Y40.00 Z0.00 (you are here)
