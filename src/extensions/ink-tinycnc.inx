@@ -1,0 +1,19 @@
+<inkscape-extension>
+
+  <_name>TinyCNC</_name>
+  <id>org.maquinaslibres.filter.inkbash.tinycnc</id>
+  
+  <dependency type="executable" location="extensions">ink-tinycnc.sh</dependency>
+  
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu _name="Imprimir"/>
+    </effects-menu>				       
+  </effect>
+  
+  <script>
+    <command reldir="extensions">ink-tinycnc.sh</command>
+  </script>
+
+</inkscape-extension>
