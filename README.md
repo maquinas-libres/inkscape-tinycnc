@@ -36,6 +36,24 @@ Uso
 
 Una vez obtenido el G-Code vamos a tener que usar un programa para comunicarnos con la impresora por ahora el más recomendable es [cncgcodecontroller](...)
 
+Texto para dibujar
+------------------
+
+Para imprimir texto con la tinyCNC es preferible usar fuentes formadas con pocas lineas, para eso podemos usar la extension "Hershey Text" incluida en esta instalación.
+
+![Ejecutar extensión](img/extension.png)
+
+Elegimos la extensión
+
+![Preferencias](img/preferencias.png)
+
+Escribimos lo que queramos, elegimos la fuente y aceptamos
+
+![Texto impreso](img/texto.png)
+
+Vemos el texto listo para imprimir.
+
+
 Creditos
 ========
 
@@ -43,7 +61,7 @@ Creditos
 * [Inkscape](http://www.inkscape.org/) is an awesome open source vector graphics app.
 * [Scribbles](https://github.com/makerbot/Makerbot/tree/master/Unicorn/Scribbles%20Scripts) is the original DXF-to-Unicorn Python script.
 * [The Egg-Bot Driver for Inkscape](http://code.google.com/p/eggbotcode/) provided inspiration and good examples for working with Inkscape's extensions API.
-
+* [Hershey](http://www.evilmadscientist.com/2011/hershey-text-an-inkscape-extension-for-engraving-fonts/)
 
 Quehaceres
 ==========
