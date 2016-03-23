@@ -26,6 +26,7 @@ wget https://raw.githubusercontent.com/maquinas-libres/inkscape-tinycnc/master/i
 
 Iniciar inkscape y ahora inicia con la opción para salvar como "G-Code para TinyCNC"
 
+
 Uso
 ===
 
@@ -39,6 +40,8 @@ Uso
 > Grabalo como "G-Code para TinyCNC"
 
 Una vez obtenido el G-Code vamos a tener que usar un programa para comunicarnos con la impresora por ahora el más recomendable es [cncgcodecontroller](...)
+
+---  
 
 Texto para dibujar
 ------------------
@@ -57,6 +60,28 @@ Escribimos lo que queramos, elegimos la fuente y aceptamos
 
 Vemos el texto listo para imprimir.
 
+--- 
+
+Texturas
+--------
+
+Inkscape tiene un modo de agregar textus con trayectorias de modo que podemos imprimirlas con nuestro TinyCNC.
+
+![](img/textura_1.png)
+
+Crear y seleccionar la forma a pintar con la textura.
+
+![](img/textura_2.png)
+
+Abrir el editor de efectos de trayectoria.
+
+![](img/textura_3.png)
+
+Agregar el efecto **Tramados (bruscos)**
+
+![](img/textura_4.png)
+
+Modificar a nuestro gusto dando doble clic sobre la forma y jalando de los tiradores (circulos y rombos)
 
 Creditos
 ========
@@ -71,4 +96,6 @@ Quehaceres
 ==========
 
 * Más ejemplos
+* Imprimir desde inkscape en window/python
+	https://onehossshay.wordpress.com/2011/08/26/grbl-a-simple-python-interface/
 * Conversor de pixels a vectores (eggbot)
