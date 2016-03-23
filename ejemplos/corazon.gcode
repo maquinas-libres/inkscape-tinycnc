@@ -1,10 +1,10 @@
-(Scribbled version of /tmp/ink_ext_XXXXXX.svgNR1TEY @ 3500.00)
-( tinycnc.py /tmp/ink_ext_XXXXXX.svgNR1TEY )
+(Scribbled version of /tmp/ink_ext_XXXXXX.svgZLLWEY @ 3500.00)
+( tinycnc.py /tmp/ink_ext_XXXXXX.svgZLLWEY )
 G21 (metric ftw)
 G90 (absolute mode)
 G92 X45.00 Y40.00 Z0.00 (you are here)
 
-Z0 (pen up)
+G1 Z0 (pen up)
 G4 P150 (wait 150ms)
 M18 (disengage drives)
 M01 (Was registration test successful?)
@@ -12,7 +12,7 @@ M17 (engage drives if YES, and continue)
 
 (Polyline consisting of 1 segments.)
 G1 X45.70 Y54.56 F3500.00
-Z20.00 (pen down)
+G1 Z20.00 (pen down)
 G4 P150 (wait 150ms)
 G1 X43.83 Y56.65 F3500.00
 G1 X41.96 Y58.75 F3500.00
@@ -79,12 +79,12 @@ G1 X50.76 Y59.65 F3500.00
 G1 X49.08 Y57.95 F3500.00
 G1 X47.39 Y56.25 F3500.00
 G1 X45.70 Y54.56 F3500.00
-Z0.00 (pen up)
+G1 Z0.00 (pen up)
 G4 P150 (wait 150ms)
 
 (Polyline consisting of 1 segments.)
 G1 X31.64 Y44.13 F3500.00
-Z20.00 (pen down)
+G1 Z20.00 (pen down)
 G4 P150 (wait 150ms)
 G1 X31.23 Y41.75 F3500.00
 G1 X31.38 Y39.32 F3500.00
@@ -118,12 +118,12 @@ G1 X35.99 Y49.89 F3500.00
 G1 X34.17 Y48.27 F3500.00
 G1 X32.67 Y46.34 F3500.00
 G1 X31.64 Y44.13 F3500.00
-Z0.00 (pen up)
+G1 Z0.00 (pen up)
 G4 P150 (wait 150ms)
 
 (Polyline consisting of 1 segments.)
 G1 X34.62 Y30.36 F3500.00
-Z20.00 (pen down)
+G1 Z20.00 (pen down)
 G4 P150 (wait 150ms)
 G1 X35.96 Y32.77 F3500.00
 G1 X37.29 Y35.18 F3500.00
@@ -141,24 +141,24 @@ G1 X51.61 Y37.59 F3500.00
 G1 X52.87 Y35.18 F3500.00
 G1 X54.13 Y32.77 F3500.00
 G1 X55.38 Y30.36 F3500.00
-Z0.00 (pen up)
+G1 Z0.00 (pen up)
 G4 P150 (wait 150ms)
 
 (Polyline consisting of 1 segments.)
 G1 X51.51 Y40.00 F3500.00
-Z20.00 (pen down)
+G1 Z20.00 (pen down)
 G4 P150 (wait 150ms)
 G1 X48.91 Y40.00 F3500.00
 G1 X46.30 Y40.00 F3500.00
 G1 X43.70 Y40.00 F3500.00
 G1 X41.09 Y40.00 F3500.00
 G1 X38.49 Y40.00 F3500.00
-Z0.00 (pen up)
+G1 Z0.00 (pen up)
 G4 P150 (wait 150ms)
 
 
 (end of print job)
-Z0.00 (pen up)
+G1 Z0.00 (pen up)
 G4 P150 (wait 150ms)
 Z0 (turn off servo)
 M18 (drives off)

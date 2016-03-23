@@ -1,7 +1,7 @@
 <inkscape-extension>
 
   <_name>Imprimir (GNU/Linux)</_name>
-  <id>org.maquinaslibres.filter.inkbash.tinycnc</id>
+  <id>com.maquinaslibres.tinycnc.gcode</id>
   
   <dependency type="executable" location="extensions">ink-tinycnc.sh</dependency>
   
