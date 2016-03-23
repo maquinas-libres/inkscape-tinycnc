@@ -170,7 +170,7 @@ class SvgCircle(SvgEllipse):
 
 class SvgText(SvgIgnoredEntity):
   def load(self,node,mat):
-    inkex.errormsg('Advertencia: Incapaz de dibujar texto, convertirlo a un camino antes de imprimir.')
+    inkex.errormsg('Advertencia: Incapaz de dibujar texto, convertirlo a trayecto antes de imprimir.')
     SvgIgnoredEntity.load(self,node,mat)
 
 class SvgLayerChange():
@@ -290,7 +290,7 @@ class SvgParser:
       else:
         entity = self.make_entity(node, matNew)
         if entity == None:
-          inkex.errormsg('Advertencia: No se pueden dibujar los objetos. conviertelos en caminos.')
+          inkex.errormsg('Advertencia: No se pueden dibujar los objetos. conviertalo a trayecto.')
 
   def make_entity(self,node,mat):
     for nodetype in SvgParser.entity_map.keys():
