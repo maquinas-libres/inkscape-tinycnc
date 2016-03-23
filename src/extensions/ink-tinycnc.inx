@@ -1,6 +1,6 @@
 <inkscape-extension>
 
-  <_name>TinyCNC</_name>
+  <_name>Imprimir (GNU/Linux)</_name>
   <id>org.maquinaslibres.filter.inkbash.tinycnc</id>
   
   <dependency type="executable" location="extensions">ink-tinycnc.sh</dependency>
@@ -8,7 +8,7 @@
   <effect>
     <object-type>all</object-type>
     <effects-menu>
-      <submenu _name="Imprimir"/>
+      <submenu _name="TinyCNC"/>
     </effects-menu>				       
   </effect>
   
