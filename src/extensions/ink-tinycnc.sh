@@ -4,9 +4,10 @@
 #	AGPLv3 © Ernesto Bazzano
 #
 
-[ ! -x $(which cu) ] && echo "Tenes que instalar la aplicación \"cu\"\nsudo apt-get install cu" > /dev/stderr & exit
+[ ! -x $(which cu) ] && echo "Tenes que instalar la aplicación \"cu\"\nsudo apt-get install cu" > /dev/stderr && exit
 
 PUERTO=$(ls /dev/ttyUSB* 2> /dev/null | head -n1)
+
 [ "$PUERTO" == "" ] && echo "Conecte el tinyCNC" > /dev/stderr && exit
 
 (sleep 3; $( dirname $0 )/tinycnc.py $@ | grep ^G1 | cut -d'(' -f1 | cut -dF -f1 )| while read A; do
