@@ -98,4 +98,12 @@ Quehaceres
 * Más ejemplos
 * Imprimir desde inkscape en window/python
 	https://onehossshay.wordpress.com/2011/08/26/grbl-a-simple-python-interface/
+	https://raw.githubusercontent.com/platformio/platformio/master/scripts/get-platformio.py
+	https://raw.githubusercontent.com/Sarthak27Jain/Serial-Read-arduino/master/serialio.py
 * Conversor de pixels a vectores (eggbot)
+
+
+--
+
+**Donar Bitcoin:** 19qkh5dNVxL58o5hh6hLsK64PwEtEXVHXs
+
